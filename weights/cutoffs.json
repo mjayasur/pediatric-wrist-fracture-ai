@@ -1,0 +1,9 @@
+{
+ "fracture_threshold": 0.26,
+ "sign_threshold": 0.3,
+ "val_images": 1966,
+ "val_positive": 1301,
+ "val_sensitivity": 0.9500384319754035,
+ "val_specificity": 0.9218045112781955,
+ "rule": "smallest fracture cutoff (0.005 grid) giving image-level specificity >= 0.92 on GRAZ validation with signs fixed at 0.30"
+}

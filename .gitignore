@@ -1,0 +1,9 @@
+raw/
+data/
+runs/
+weights/*.pt
+release_assets/
+results.csv
+annotated/
+__pycache__/
+yolo11s.pt

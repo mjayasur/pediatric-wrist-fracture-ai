@@ -1,0 +1,645 @@
+[
+ {
+  "id": "PMC4717662__Fig1__panel_a",
+  "article_group": "PMC4717662",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4717662/",
+  "license": "CC BY",
+  "citation": "J Med Case Rep. 2016 Jan 18;10:8. doi: 10.1186/s13256-015-0785-3",
+  "title": "Stress fracture of the scaphoid in an elite junior tennis player: a case report and review of the literature.",
+  "source_caption": "Radiographs obtained at the first visit show a nondisplaced scaphoid waist fracture through the carpal scaphoid with slightly increased bone density",
+  "age_years": 18,
+  "pediatric_confirmed": false,
+  "clinical_stage": "stress_fracture",
+  "crop_xyxy": [
+   1,
+   1,
+   234,
+   235
+  ],
+  "box_xyxy_source": [
+   40,
+   150,
+   88,
+   185
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC4717662__Fig1__panel_a.png",
+  "label": "labels/PMC4717662__Fig1__panel_a.txt"
+ },
+ {
+  "id": "PMC4717662__Fig1__panel_b",
+  "article_group": "PMC4717662",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4717662/",
+  "license": "CC BY",
+  "citation": "J Med Case Rep. 2016 Jan 18;10:8. doi: 10.1186/s13256-015-0785-3",
+  "title": "Stress fracture of the scaphoid in an elite junior tennis player: a case report and review of the literature.",
+  "source_caption": "Radiographs obtained at the first visit show a nondisplaced scaphoid waist fracture through the carpal scaphoid with slightly increased bone density",
+  "age_years": 18,
+  "pediatric_confirmed": false,
+  "clinical_stage": "stress_fracture",
+  "crop_xyxy": [
+   237,
+   1,
+   470,
+   235
+  ],
+  "box_xyxy_source": [
+   318,
+   149,
+   374,
+   184
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC4717662__Fig1__panel_b.png",
+  "label": "labels/PMC4717662__Fig1__panel_b.txt"
+ },
+ {
+  "id": "PMC2740206__fig-001__panel_a",
+  "article_group": "PMC2740206",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2740206/",
+  "license": "CC BY",
+  "citation": "Cases J. 2009 Jul 23;2:7220. doi: 10.4076/1757-1626-2-7220",
+  "title": "Scaphoid fractures with unusual presentations: a case series.",
+  "source_caption": "Radiograph of Case #1. Transverse fracture through waist of scaphoid occurring one year previously. No displacement or avascular necrosis is evident.",
+  "age_years": 39,
+  "pediatric_confirmed": false,
+  "clinical_stage": "chronic_fracture",
+  "crop_xyxy": [
+   28,
+   35,
+   485,
+   510
+  ],
+  "box_xyxy_source": [
+   223,
+   309,
+   302,
+   368
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC2740206__fig-001__panel_a.png",
+  "label": "labels/PMC2740206__fig-001__panel_a.txt"
+ },
+ {
+  "id": "PMC2740206__fig-002__panel_a",
+  "article_group": "PMC2740206",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2740206/",
+  "license": "CC BY",
+  "citation": "Cases J. 2009 Jul 23;2:7220. doi: 10.4076/1757-1626-2-7220",
+  "title": "Scaphoid fractures with unusual presentations: a case series.",
+  "source_caption": "Radiograph of Case #3. Fracture through scaphoid located just distal to waist with mild displacement. Slight widening of the scapholunate interval is also noted. No avascular necrosis is evident.",
+  "age_years": 16,
+  "pediatric_confirmed": true,
+  "clinical_stage": "one_month_after_injury",
+  "crop_xyxy": [
+   1,
+   1,
+   501,
+   750
+  ],
+  "box_xyxy_source": [
+   163,
+   310,
+   273,
+   372
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC2740206__fig-002__panel_a.png",
+  "label": "labels/PMC2740206__fig-002__panel_a.txt"
+ },
+ {
+  "id": "PMC5016928__Fig2__panel_a",
+  "article_group": "PMC5016928",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5016928/",
+  "license": "CC BY",
+  "citation": "J Orthop Surg Res. 2016 Sep 9;11(1):98. doi: 10.1186/s13018-016-0431-9",
+  "title": "Taking a holistic approach to managing difficult stress fractures",
+  "source_caption": "Scaphoid view radiograph of the left wrist in a gymnast with continued radial wrist pain demonstrating grade III scaphoid waist stress fracture",
+  "age_years": null,
+  "pediatric_confirmed": false,
+  "clinical_stage": "stress_fracture",
+  "crop_xyxy": [
+   1,
+   1,
+   357,
+   371
+  ],
+  "box_xyxy_source": [
+   206,
+   212,
+   276,
+   251
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC5016928__Fig2__panel_a.png",
+  "label": "labels/PMC5016928__Fig2__panel_a.txt"
+ },
+ {
+  "id": "PMC3163770__Fig1__panel_a",
+  "article_group": "PMC3163770",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3163770/",
+  "license": "CC BY",
+  "citation": "J Orthop Traumatol. 2011 Jun 30;12(3):159\u201362. doi: 10.1007/s10195-011-0143-1",
+  "title": "Established non-union of an operatively managed trans-scaphoid perilunate fracture dislocation progressing to spontaneous union.",
+  "source_caption": "Wrist PA X-ray at presentation showing a displaced scaphoid fracture with disruption of Gilula\u2019s arcs (1 and 2)",
+  "age_years": 19,
+  "pediatric_confirmed": false,
+  "clinical_stage": "presentation",
+  "crop_xyxy": [
+   1,
+   1,
+   283,
+   444
+  ],
+  "box_xyxy_source": [
+   156,
+   132,
+   215,
+   194
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC3163770__Fig1__panel_a.png",
+  "label": "labels/PMC3163770__Fig1__panel_a.txt"
+ },
+ {
+  "id": "PMC3051891__F7__panel_a",
+  "article_group": "PMC3051891",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3051891/",
+  "license": "CC BY",
+  "citation": "Int J Emerg Med. 2011 Feb 4;4:4. doi: 10.1186/1865-1380-4-4",
+  "title": "Current methods of diagnosis and treatment of scaphoid fractures.",
+  "source_caption": "Proximal pole fracture (patient E) on a conventional radiograph .",
+  "age_years": null,
+  "pediatric_confirmed": false,
+  "clinical_stage": "proximal_pole_fracture",
+  "crop_xyxy": [
+   47,
+   16,
+   537,
+   826
+  ],
+  "box_xyxy_source": [
+   210,
+   439,
+   285,
+   495
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC3051891__F7__panel_a.png",
+  "label": "labels/PMC3051891__F7__panel_a.txt"
+ },
+ {
+  "id": "PMC4490651__Fig4__panel_a",
+  "article_group": "PMC4490651",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4490651/",
+  "license": "CC BY",
+  "citation": "J Orthop Surg Res. 2015 May 20;10:72. doi: 10.1186/s13018-015-0221-9",
+  "title": "Low-intensity pulsed ultrasound for treating delayed union scaphoid fractures: case series.",
+  "source_caption": "Early diagnosed group.  a  Patient fell and injured his wrist; a fracture of the waist of the scaphoid was diagnosed and cast installed. Three months after cast immobilization, X-ray showed bone resorption and no signs of union of the fracture. LIPUS treatment initiated.  b ,  c  After 3 months of LIPUS treatment, CT scan demonstrates complete healing of the fracture",
+  "age_years": null,
+  "pediatric_confirmed": false,
+  "clinical_stage": "nonunion_after_cast",
+  "crop_xyxy": [
+   8,
+   2,
+   186,
+   260
+  ],
+  "box_xyxy_source": [
+   23,
+   160,
+   77,
+   201
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC4490651__Fig4__panel_a.png",
+  "label": "labels/PMC4490651__Fig4__panel_a.txt"
+ },
+ {
+  "id": "PMC5025579__Fig1__panel_a",
+  "article_group": "PMC5025579",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5025579/",
+  "license": "CC BY",
+  "citation": "J Orthop Surg Res. 2016 Sep 16;11:99. doi: 10.1186/s13018-016-0432-8",
+  "title": "Sports-related wrist and hand injuries: a review",
+  "source_caption": "\n a  PA radiograph of a nondisplaced proximal pole scaphoid fracture in a recreational hockey player.  b  PA radiograph of a nondisplaced scaphoid waist fracture in a high school soccer player treated with headless compression screw fixation",
+  "age_years": null,
+  "pediatric_confirmed": false,
+  "clinical_stage": "proximal_pole_fracture",
+  "crop_xyxy": [
+   3,
+   17,
+   212,
+   225
+  ],
+  "box_xyxy_source": [
+   72,
+   129,
+   116,
+   162
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC5025579__Fig1__panel_a.png",
+  "label": "labels/PMC5025579__Fig1__panel_a.txt"
+ },
+ {
+  "id": "PMC5286494__fig1__panel_a",
+  "article_group": "PMC5286494",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5286494/",
+  "license": "CC BY",
+  "citation": "Case Rep Orthop. 2017 Jan 18;2017:1941750. doi: 10.1155/2017/1941750",
+  "title": "Scaphoid Fracture in a Patient with a Scaphotrapezial Synostosis: A Case Report and Literature Review",
+  "source_caption": "Radiographs show a displaced fracture through the waist of the scaphoid with Scaphotrapezial synostosis.",
+  "age_years": 15,
+  "pediatric_confirmed": true,
+  "clinical_stage": "presentation_with_scapho_trapezial_synostosis",
+  "crop_xyxy": [
+   11,
+   13,
+   362,
+   429
+  ],
+  "box_xyxy_source": [
+   169,
+   258,
+   250,
+   310
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC5286494__fig1__panel_a.png",
+  "label": "labels/PMC5286494__fig1__panel_a.txt"
+ },
+ {
+  "id": "PMC5286494__fig1__panel_b",
+  "article_group": "PMC5286494",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5286494/",
+  "license": "CC BY",
+  "citation": "Case Rep Orthop. 2017 Jan 18;2017:1941750. doi: 10.1155/2017/1941750",
+  "title": "Scaphoid Fracture in a Patient with a Scaphotrapezial Synostosis: A Case Report and Literature Review",
+  "source_caption": "Radiographs show a displaced fracture through the waist of the scaphoid with Scaphotrapezial synostosis.",
+  "age_years": 15,
+  "pediatric_confirmed": true,
+  "clinical_stage": "presentation_with_scapho_trapezial_synostosis",
+  "crop_xyxy": [
+   385,
+   13,
+   720,
+   429
+  ],
+  "box_xyxy_source": [
+   548,
+   213,
+   637,
+   266
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC5286494__fig1__panel_b.png",
+  "label": "labels/PMC5286494__fig1__panel_b.txt"
+ },
+ {
+  "id": "PMC4080821__F3__panel_a",
+  "article_group": "PMC4080821",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4080821/",
+  "license": "CC BY",
+  "citation": "Eplasty. 2014 Jun 27;14:e24.",
+  "title": "Reconstruction of scaphoid nonunion fractures of the proximal one third with a vascularized bone graft from the distal radius.",
+  "source_caption": "X-rays of a proximal located scaphoid nonunion. A 28-year-old male patient suffering from scaphoid nonunion for 2 years. ( a ) Preoperatively. ( b ) Intraoperatively with a small k-wire for fixation of the bone graft, palmar approach. ( c ) 6 weeks postoperatively. ( d ) 12 weeks postoperatively.",
+  "age_years": 28,
+  "pediatric_confirmed": false,
+  "clinical_stage": "chronic_nonunion",
+  "crop_xyxy": [
+   2,
+   2,
+   176,
+   185
+  ],
+  "box_xyxy_source": [
+   123,
+   108,
+   173,
+   151
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC4080821__F3__panel_a.png",
+  "label": "labels/PMC4080821__F3__panel_a.txt"
+ },
+ {
+  "id": "PMC3224762__F5__panel_a",
+  "article_group": "PMC3224762",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3224762/",
+  "license": "CC BY",
+  "citation": "J Orthop Surg Res. 2011 Nov 8;6:57. doi: 10.1186/1749-799X-6-57",
+  "title": "The treatment of scaphoid nonunion using the Ilizarov fixator without bone graft, a study of 18 cases.",
+  "source_caption": "Scaphoid non-union (SNU) in patient number 3, a preoperative radiograph .",
+  "age_years": null,
+  "pediatric_confirmed": false,
+  "clinical_stage": "chronic_nonunion",
+  "crop_xyxy": [
+   1,
+   1,
+   599,
+   799
+  ],
+  "box_xyxy_source": [
+   134,
+   426,
+   317,
+   521
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC3224762__F5__panel_a.png",
+  "label": "labels/PMC3224762__F5__panel_a.txt"
+ },
+ {
+  "id": "PMC3745701__F1__panel_a",
+  "article_group": "PMC3745701",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3745701/",
+  "license": "CC BY-NC-SA",
+  "citation": "Indian J Orthop. 2013 Jul-Aug;47(4):425\u20138. doi: 10.4103/0019-5413.114941",
+  "title": "Posttraumatic osteonecrosis and nonunion of distal pole of scaphoid.",
+  "source_caption": "(a) X-ray wrist joint anteroposterior view in ulnar deviation showing nonunion with avascular necrosis of distal pole of scaphoid (b) CT scan confirming the nonunion and a sclerotic distal fragment",
+  "age_years": 30,
+  "pediatric_confirmed": false,
+  "clinical_stage": "distal_pole_nonunion_with_osteonecrosis",
+  "crop_xyxy": [
+   2,
+   2,
+   260,
+   314
+  ],
+  "box_xyxy_source": [
+   45,
+   136,
+   111,
+   180
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC3745701__F1__panel_a.png",
+  "label": "labels/PMC3745701__F1__panel_a.txt"
+ },
+ {
+  "id": "PMC12468117__children-12-01135-f003__panel_a",
+  "article_group": "PMC12468117",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12468117/",
+  "license": "CC BY",
+  "citation": "Children (Basel). 2025 Aug 27;12(9):1135. doi: 10.3390/children12091135",
+  "title": "Surgical Treatment of Scaphoid Non-Union in Adolescents: A Modified Vascularized Bone Graft Technique",
+  "source_caption": "Radiographic evidence of scaphoid waist non-union in Patient 2.",
+  "age_years": 13,
+  "pediatric_confirmed": true,
+  "clinical_stage": "nonunion_patient_2",
+  "crop_xyxy": [
+   12,
+   12,
+   738,
+   783
+  ],
+  "box_xyxy_source": [
+   248,
+   449,
+   394,
+   535
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC12468117__children-12-01135-f003__panel_a.png",
+  "label": "labels/PMC12468117__children-12-01135-f003__panel_a.txt"
+ },
+ {
+  "id": "PMC12468117__children-12-01135-f010__panel_a",
+  "article_group": "PMC12468117",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12468117/",
+  "license": "CC BY",
+  "citation": "Children (Basel). 2025 Aug 27;12(9):1135. doi: 10.3390/children12091135",
+  "title": "Surgical Treatment of Scaphoid Non-Union in Adolescents: A Modified Vascularized Bone Graft Technique",
+  "source_caption": "Scaphoid healing process in Patient 1. Top row: Preoperative and 3-month postoperative anteroposterior (AP) projection X-rays. Bottom row: X-rays at 16 months postoperatively. The lateral view shows the ossified pedicle of the vascularized graft ( green arrow ). It causes neither discomfort nor functional impairment and may be surgically removed during the K-wire extraction at the surgeon\u2019s discretion. Also visible is the proximal shift of the graft harvest site due to distal radius growth, indicating that no epiphysiodesis occurred ( yellow arrow ).",
+  "age_years": 13,
+  "pediatric_confirmed": true,
+  "clinical_stage": "nonunion_patient_1",
+  "crop_xyxy": [
+   18,
+   17,
+   377,
+   405
+  ],
+  "box_xyxy_source": [
+   66,
+   116,
+   213,
+   192
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC12468117__children-12-01135-f010__panel_a.png",
+  "label": "labels/PMC12468117__children-12-01135-f010__panel_a.txt"
+ },
+ {
+  "id": "PMC13307208__ars270008-fig-0002__panel_a",
+  "article_group": "PMC13307208",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13307208/",
+  "license": "CC BY",
+  "citation": "Arthrosc Sports Med Rehabil. 2026 Apr 20;8(1):e70008. doi: 10.1002/ars2.70008",
+  "title": "Minimally Invasive Arthroscopic Fixation of Scaphoid Nonunion in Adolescents Shows High Union Rates, Improved Function, and Low Morbidity",
+  "source_caption": "Fourteen\u2010year\u2010old male patient with a scaphoid fracture sustained 6 months prior, which progressed to nonunion. Anteroposterior (A), lateral (B), and oblique (C) radiographs confirm the lesion. Magnetic resonance imaging (D) shows no vascular compromise of the bone fragments.",
+  "age_years": 14,
+  "pediatric_confirmed": true,
+  "clinical_stage": "nonunion",
+  "crop_xyxy": [
+   2,
+   33,
+   164,
+   226
+  ],
+  "box_xyxy_source": [
+   25,
+   84,
+   98,
+   136
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC13307208__ars270008-fig-0002__panel_a.png",
+  "label": "labels/PMC13307208__ars270008-fig-0002__panel_a.txt"
+ },
+ {
+  "id": "PMC13307208__ars270008-fig-0002__panel_c",
+  "article_group": "PMC13307208",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13307208/",
+  "license": "CC BY",
+  "citation": "Arthrosc Sports Med Rehabil. 2026 Apr 20;8(1):e70008. doi: 10.1002/ars2.70008",
+  "title": "Minimally Invasive Arthroscopic Fixation of Scaphoid Nonunion in Adolescents Shows High Union Rates, Improved Function, and Low Morbidity",
+  "source_caption": "Fourteen\u2010year\u2010old male patient with a scaphoid fracture sustained 6 months prior, which progressed to nonunion. Anteroposterior (A), lateral (B), and oblique (C) radiographs confirm the lesion. Magnetic resonance imaging (D) shows no vascular compromise of the bone fragments.",
+  "age_years": 14,
+  "pediatric_confirmed": true,
+  "clinical_stage": "nonunion",
+  "crop_xyxy": [
+   2,
+   266,
+   164,
+   451
+  ],
+  "box_xyxy_source": [
+   17,
+   324,
+   116,
+   372
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC13307208__ars270008-fig-0002__panel_c.png",
+  "label": "labels/PMC13307208__ars270008-fig-0002__panel_c.txt"
+ },
+ {
+  "id": "PMC11571375__fig1-15589447241257705__panel_a",
+  "article_group": "PMC11571375",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11571375/",
+  "license": "CC BY-NC",
+  "citation": "Hand (N Y). 2024 Jul 26;20(7):1101\u20138. doi: 10.1177/15589447241257705",
+  "title": "Inter-Rater and Intrarater Reliability of Radiographs in the Diagnosis of Pediatric Scaphoid Fractures",
+  "source_caption": "Radiograph selection for survey inclusion by fracture-truth. Radiograph examples: (a) Fracture-positive radiograph, (b) fracture-negative radiograph, and (c) equivocal radiograph.",
+  "age_years": null,
+  "pediatric_confirmed": true,
+  "clinical_stage": "source_confirmed_positive_under_15_years",
+  "crop_xyxy": [
+   69,
+   280,
+   230,
+   557
+  ],
+  "box_xyxy_source": [
+   111,
+   363,
+   213,
+   423
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC11571375__fig1-15589447241257705__panel_a.png",
+  "label": "labels/PMC11571375__fig1-15589447241257705__panel_a.txt"
+ },
+ {
+  "id": "PMC11571375__fig1-15589447241257705__panel_b",
+  "article_group": "PMC11571375",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11571375/",
+  "license": "CC BY-NC",
+  "citation": "Hand (N Y). 2024 Jul 26;20(7):1101\u20138. doi: 10.1177/15589447241257705",
+  "title": "Inter-Rater and Intrarater Reliability of Radiographs in the Diagnosis of Pediatric Scaphoid Fractures",
+  "source_caption": "Radiograph selection for survey inclusion by fracture-truth. Radiograph examples: (a) Fracture-positive radiograph, (b) fracture-negative radiograph, and (c) equivocal radiograph.",
+  "age_years": null,
+  "pediatric_confirmed": true,
+  "clinical_stage": "source_confirmed_negative_under_15_years",
+  "crop_xyxy": [
+   265,
+   280,
+   430,
+   557
+  ],
+  "box_xyxy_source": null,
+  "label_basis": "source_confirmed_fracture_negative_carpal_crop",
+  "image": "images/PMC11571375__fig1-15589447241257705__panel_b.png",
+  "label": "labels/PMC11571375__fig1-15589447241257705__panel_b.txt"
+ },
+ {
+  "id": "PMC7837869__F1__panel_a",
+  "article_group": "PMC7837869",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7837869/",
+  "license": "CC BY",
+  "citation": "Medicine (Baltimore). 2021 Jan 22;100(3):e24095. doi: 10.1097/MD.0000000000024095",
+  "title": "Arthroscopic-assisted bone grafting and percutaneous K-wires fixation for the treatment of scaphoid nonunion in the skeletally immature patient: Three cases report",
+  "source_caption": "A 15-year-old boy patient with nonunion of the right scaphoid fracture. (A) Preoperative right wrist plain PA with ulnar deviation view showing nonunion at the waist of the scaphoid. (B) Preoperative right wrist sagittal CT scan shows nonunion at the waist of the scaphoid, about 88 degrees lateral intra-scaphoid angle and a humpback deformity. (C) Mid-carpal arthroscopy image of scaphoid nonunion site (P: proximal fragment, D: distal fragment). (D) Mid-carpal arthroscopy image of nonunion site after debridement showing punctate bleeding from proximal and distal fragments. (E) Mid-carpal arthroscopy image of SL joint showing volar side instability (Sc: scaphoid, Lu: lunate). (F) A mid-carpal arthroscopy image of percutaneous autogenous iliac cancellous bone grafting at the nonunion site using cannula and trocar (left) and complete the bone graft (right). (G) Immediate postoperative plain right wrist PA with ulnar deviation and lateral radiographs show internal fixation with K-wires and grafted bone at the nonunion site. (H) Postoperative 9 weeks K-wires removal axial and sagittal CT scans show complete bony union and correction of humpback deformity. (I) At 54 months\u2019 follow-up plain right wrist PA with ulnar deviation and lateral radiographs show solid bony union.",
+  "age_years": 15,
+  "pediatric_confirmed": true,
+  "clinical_stage": "nonunion_case_1",
+  "crop_xyxy": [
+   119,
+   2,
+   420,
+   352
+  ],
+  "box_xyxy_source": [
+   170,
+   137,
+   249,
+   189
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC7837869__F1__panel_a.png",
+  "label": "labels/PMC7837869__F1__panel_a.txt"
+ },
+ {
+  "id": "PMC7837869__F4__panel_a",
+  "article_group": "PMC7837869",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7837869/",
+  "license": "CC BY",
+  "citation": "Medicine (Baltimore). 2021 Jan 22;100(3):e24095. doi: 10.1097/MD.0000000000024095",
+  "title": "Arthroscopic-assisted bone grafting and percutaneous K-wires fixation for the treatment of scaphoid nonunion in the skeletally immature patient: Three cases report",
+  "source_caption": "A 15-year-old boy patient with nonunion of the right scaphoid fracture (A) Preoperative right wrist plain PA with ulnar deviation and oblique view showing nonunion at the waist of the scaphoid. (B) Preoperative right wrist sagittal CT scan shows nonunion at the waist of the scaphoid. (C) Intraoperative mid-carpal arthroscopy image of scaphoid nonunion site showing the gap at the waist of the scaphoid (left, P: proximal fragment, D: distal fragment), provisional K-wire fixation (center) and grafted iliac cancellous bone at the nonunion site (right). (D) Immediate postoperative plain right wrist PA and lateral radiographs show internal fixation with K-wires and grafted bone at the nonunion site. (E) At 54 months\u2019 follow-up plain right wrist PA with ulnar deviation, lateral radiographs and sagittal CT scan show sold bony union.",
+  "age_years": 15,
+  "pediatric_confirmed": true,
+  "clinical_stage": "nonunion_case_2",
+  "crop_xyxy": [
+   3,
+   3,
+   212,
+   239
+  ],
+  "box_xyxy_source": [
+   23,
+   106,
+   96,
+   165
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC7837869__F4__panel_a.png",
+  "label": "labels/PMC7837869__F4__panel_a.txt"
+ },
+ {
+  "id": "PMC7837869__F4__panel_oblique",
+  "article_group": "PMC7837869",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7837869/",
+  "license": "CC BY",
+  "citation": "Medicine (Baltimore). 2021 Jan 22;100(3):e24095. doi: 10.1097/MD.0000000000024095",
+  "title": "Arthroscopic-assisted bone grafting and percutaneous K-wires fixation for the treatment of scaphoid nonunion in the skeletally immature patient: Three cases report",
+  "source_caption": "A 15-year-old boy patient with nonunion of the right scaphoid fracture (A) Preoperative right wrist plain PA with ulnar deviation and oblique view showing nonunion at the waist of the scaphoid. (B) Preoperative right wrist sagittal CT scan shows nonunion at the waist of the scaphoid. (C) Intraoperative mid-carpal arthroscopy image of scaphoid nonunion site showing the gap at the waist of the scaphoid (left, P: proximal fragment, D: distal fragment), provisional K-wire fixation (center) and grafted iliac cancellous bone at the nonunion site (right). (D) Immediate postoperative plain right wrist PA and lateral radiographs show internal fixation with K-wires and grafted bone at the nonunion site. (E) At 54 months\u2019 follow-up plain right wrist PA with ulnar deviation, lateral radiographs and sagittal CT scan show sold bony union.",
+  "age_years": 15,
+  "pediatric_confirmed": true,
+  "clinical_stage": "nonunion_case_2",
+  "crop_xyxy": [
+   217,
+   3,
+   453,
+   263
+  ],
+  "box_xyxy_source": [
+   275,
+   125,
+   369,
+   182
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC7837869__F4__panel_oblique.png",
+  "label": "labels/PMC7837869__F4__panel_oblique.txt"
+ },
+ {
+  "id": "PMC7837869__F5__panel_a",
+  "article_group": "PMC7837869",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7837869/",
+  "license": "CC BY",
+  "citation": "Medicine (Baltimore). 2021 Jan 22;100(3):e24095. doi: 10.1097/MD.0000000000024095",
+  "title": "Arthroscopic-assisted bone grafting and percutaneous K-wires fixation for the treatment of scaphoid nonunion in the skeletally immature patient: Three cases report",
+  "source_caption": "An 11-year-old boy patient with nonunion of the left scaphoid fracture. (A) preoperative left wrist plain PA with ulnar deviation and lateral views show nonunion at the distal pole of the scaphoid. (B) Preoperative left wrist axial and sagittal CT scan show nonunion and bone defect at the distal pole of the scaphoid. (C) Mid-carpal arthroscopy image of scaphoid nonunion site showing the gap at the distal pole of the scaphoid and it covered with fibrotic tissue (left, P: proximal fragment, D: distal fragment) after debridement of fibrotic tissue at the ends of fragments showing punctate bleeding from the distal fragment (right). (D) Arthroscopy image after Genesis sponge grafting at the nonunion site. (E) Immediate postoperative plain left wrist PA with ulnar deviation and lateral radiographs show well reduced scaphoid fracture and internal fixation with K-wires. (F) At 34 months\u2019 follow-up plain left wrist PA with ulnar deviation, lateral radiographs and clinical photos show solid bone union and excellent functional results.",
+  "age_years": null,
+  "pediatric_confirmed": true,
+  "clinical_stage": "distal_pole_nonunion_age_11_in_caption_12_in_text",
+  "crop_xyxy": [
+   3,
+   3,
+   402,
+   429
+  ],
+  "box_xyxy_source": [
+   218,
+   204,
+   340,
+   280
+  ],
+  "label_basis": "AI_visual_box_supported_by_source_fracture_description",
+  "image": "images/PMC7837869__F5__panel_a.png",
+  "label": "labels/PMC7837869__F5__panel_a.txt"
+ }
+]
