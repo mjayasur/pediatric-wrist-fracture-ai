@@ -118,7 +118,7 @@ SUBTYPES = [('Torus or buckle, radius', ['23r-M/2.1']), ('Torus or buckle, ulna'
             ('Torus or buckle, both bones', ['23-M/2.1']), ('Complete metaphyseal, radius', ['23r-M/3.1']),
             ('Complete metaphyseal, ulna', ['23u-M/3.1']), ('Complete metaphyseal, both bones', ['23-M/3.1']),
             ('Salter-Harris I, radius', ['23r-E/1']), ('Salter-Harris II, radius', ['23r-E/2.1']),
-            ('Salter-Harris III, radius', ['23r-E/3']), ('Salter-Harris IV, radius', ['23r-E/4.1']),
+            ('Salter-Harris III, radius', ['23r-E/3']), ('Salter-Harris IV, radius', ['23r-E/4.1', '23r-E/4.2']),
             ('Salter-Harris I, ulna', ['23u-E/1']), ('Salter-Harris III, ulna', ['23u-E/3']),
             ('Salter-Harris IV, ulna', ['23u-E/4']), ('Ulnar styloid', ['23u-E/7']), ('Styloid, both bones', ['23-E/7']),
             ('Scaphoid', ['72B(b)', '72B(c)']), ('Shaft bowing, radius', ['22r-D/1']), ('Shaft bowing, ulna', ['22u-D/1.1']),
