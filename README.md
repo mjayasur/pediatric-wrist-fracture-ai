@@ -15,7 +15,7 @@ Three files do everything the paper describes:
 |---|---|
 | `datasets.py` | organises the downloaded datasets into the exact training, validation and test sets (patient-level split, 2-class and 9-class labels, six-source training pool with oversampling, MURA pseudo-labels, external PediURF cohort) |
 | `training.py` | trains model 2 and model 1 with the paper's recipes and selects the fracture cutoff on validation |
-| `inference.py` | runs the screening system on new radiographs, or reproduces the GRAZ and PediURF evaluation |
+| `inference.py` | runs the screening system on new radiographs, or reproduces the GRAZ (initial presentations) and PediURF evaluation |
 
 ## 1. Download the datasets into `raw/`
 
@@ -72,13 +72,16 @@ python inference.py evaluate-pediurf
 ```
 
 `run` writes one row per radiograph (confidences, boxes, flag) plus the examination-level flag. Weights and
-cutoffs download automatically from the release if `weights/` is empty.
+cutoffs download automatically from the release if `weights/` is empty. `evaluate-graz` scores the
+initial-presentation examinations of the test partition (radiographs with the dataset's `initial_exam` flag),
+as reported in the paper.
 
 ## Reported results (from the paper)
 
-GRAZ held-out test, 1,066 examinations: sensitivity 97.3% (95% CI 96.0-98.4), specificity 92.1%
-(89.2-94.9), AUROC 0.989, fracture AP50 0.939. External PediURF, 4,690 distal and midshaft cases:
-90.3% flagged (89.5-91.2). Inference 70 ms per radiograph for both models on an RTX 3090.
+GRAZ held-out test, 576 initial-presentation examinations (1,094 radiographs, 496 patients): sensitivity
+94.6% (95% CI 91.7-97.0), specificity 93.1% (90.0-95.6), AUROC 0.981, fracture AP50 0.924. External PediURF,
+4,690 distal and midshaft cases: 90.3% flagged (89.5-91.2). Inference 70 ms per radiograph for both models on
+an RTX 3090.
 
 ## License
 

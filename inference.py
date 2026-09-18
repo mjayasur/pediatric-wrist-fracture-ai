@@ -143,7 +143,10 @@ def evaluate_graz(a):
     images = sorted((DATA / 'graz2' / 'images' / 'test').glob('*.png'))
     exams = collections.defaultdict(list)
     for p in images:
-        sc = s.score(p); m = meta[p.stem]
+        m = meta[p.stem]
+        if m['initial_exam'] not in ('1', '1.0'):   # testing uses initial presentations only, not follow-up imaging
+            continue
+        sc = s.score(p)
         positive = (DATA / 'graz2' / 'labels' / 'test' / f'{p.stem}.txt').read_text().count('\n0 ') + \
                    (DATA / 'graz2' / 'labels' / 'test' / f'{p.stem}.txt').read_text().startswith('0 ') > 0
         exams[(m['patient_id'], m['study_number'])].append(dict(positive=positive, codes=[c.strip() for c in m['ao_classification'].split(';') if c.strip()],
@@ -159,7 +162,7 @@ def evaluate_graz(a):
         boots.append(metrics([g for pt in rng.choices(pts, k=len(pts)) for g in by_patient[pt]]))
     for k in ('sensitivity', 'specificity', 'ppv', 'accuracy', 'auroc'):
         v = sorted(b[k] for b in boots); m[f'{k}_ci95'] = [v[25], v[974]]
-    print(f"GRAZ test: {len(exams)} examinations, {len(images)} radiographs")
+    print(f"GRAZ test, initial presentations: {len(exams)} examinations, {sum(len(v) for v in exams.values())} radiographs")
     print(json.dumps({k: (round(v, 4) if isinstance(v, float) else v) for k, v in m.items()}, indent=1))
     print('\nSensitivity by fracture type (examinations flagged / positive examinations with the code):')
     for name, codes in SUBTYPES:
