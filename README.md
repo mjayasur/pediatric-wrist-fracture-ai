@@ -76,6 +76,11 @@ cutoffs download automatically from the release if `weights/` is empty. `evaluat
 initial-presentation examinations of the test partition (radiographs with the dataset's `initial_exam` flag),
 as reported in the paper.
 
+## iOS application
+
+`ios/WristScreen` is the on-device app (SwiftUI + Core ML) shown in the paper's Figure 3; see `ios/README.md`
+for the Core ML export and build steps.
+
 ## Reported results (from the paper)
 
 GRAZ held-out test, 576 initial-presentation examinations (1,094 radiographs, 496 patients): sensitivity

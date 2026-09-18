@@ -1,0 +1,32 @@
+name: WristScreen
+options:
+  bundleIdPrefix: com.jayasuriya
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+targets:
+  WristScreen:
+    type: application
+    platform: iOS
+    sources:
+      - path: Sources
+      - path: Models
+        buildPhase: sources
+      - path: Samples
+        buildPhase: resources
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.jayasuriya.wristscreen
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_NSPhotoLibraryUsageDescription: "Choose a wrist radiograph to screen."
+        INFOPLIST_KEY_NSCameraUsageDescription: "Photograph a wrist radiograph to screen."
+        INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: UIInterfaceOrientationPortrait
+        INFOPLIST_KEY_CFBundleDisplayName: "Wrist Screen"
+        COREML_CODEGEN_LANGUAGE: None
+        SWIFT_VERSION: "5.9"
+        TARGETED_DEVICE_FAMILY: "1"
+        CODE_SIGNING_ALLOWED: NO
+        CODE_SIGN_IDENTITY: ""
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
